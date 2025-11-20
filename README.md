@@ -46,5 +46,5 @@
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dijnie&show_icons=true&hide_border=false&title_color=99ffcc&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 ---
-[Facebook]: https://www.facebook.com/TiDPR2.5/
+[Facebook]: https://www.facebook.com/dijnie/
 [Link]: https://github.com/dijnie
